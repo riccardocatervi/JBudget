@@ -1,7 +1,7 @@
 # JBudget – Personal budget manager 📊
 
 **JBudget** is a Java application designed for personal budget management.  
-The project was developed as part of the **Programming Methodologies** course at the University of Camerino and provides a modern interface to create and manage multiple accounts, record income and expense transactions, organize spending through tags, and schedule recurring transactions.  
+The project was developed as part of the **Programming Methodologies** course at University of Camerino and provides a modern interface to create and manage multiple accounts, record income and expense transactions, organize spending through tags, and schedule recurring transactions.  
 On the first launch the application initializes the database, sets up services and controllers, and can generate sample data to help you explore.
 
 ## Key features
